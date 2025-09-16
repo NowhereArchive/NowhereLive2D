@@ -2,7 +2,7 @@
   "Version": 3,
   "Meta": {
     "Name": "clip_rahu_click_body",
-    "Duration": 7.0,
+    "Duration": 13.0,
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
@@ -12317,3 +12317,4 @@
   ]
 
 }
+
