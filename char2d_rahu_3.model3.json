@@ -9,18 +9,18 @@
     "DisplayInfo": null,
     "Physics": null,
     "Motions": {
-      "clip_rahu_background": [
+      "Background": [
         {
           "File": "motions/clip_rahu_background.motion3.json"
         }
       ],
-      "clip_rahu_click_body": [
+      "Body": [
         {
           "File": "motions/clip_rahu_click_body.motion3.json",
           "Sound": "audios/vo_rahu_qingkongmixing_talk_001.wav"
         }
       ],
-      "clip_rahu_idle": [
+      "Idle": [
         {
           "File": "motions/clip_rahu_idle.motion3.json"
         }
@@ -53,3 +53,4 @@
     }
   ]
 }
+
