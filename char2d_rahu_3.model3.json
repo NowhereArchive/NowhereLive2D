@@ -44,5 +44,11 @@
         "ParamMouthOpenY0"
       ]
     }
+  ],
+  "HitAreas": [
+    {
+      "Id": "HitArea_Body",
+      "Name": "Body"
+    }
   ]
 }
