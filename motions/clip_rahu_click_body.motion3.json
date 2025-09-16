@@ -10,7 +10,8 @@
     "UserDataCount": 1,
     "TotalPointCount": 4840,
     "TotalSegmentCount": 1733,
-    "TotalUserDataSize": 0
+    "TotalUserDataSize": 0,
+    "Sound": "audios/vo_rahu_qingkongmixing_talk_001.wav"
   },
   "Curves": [
     {
