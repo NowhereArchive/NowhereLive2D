@@ -1,0 +1,48 @@
+{
+  "Version": 3,
+  "Name": "char2d_rahu_3",
+  "FileReferences": {
+    "Moc": "char2d_rahu_3.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "DisplayInfo": null,
+    "Physics": null,
+    "Motions": {
+      "clip_rahu_background": [
+        {
+          "File": "motions/clip_rahu_background.motion3.json"
+        }
+      ],
+      "clip_rahu_click_body": [
+        {
+          "File": "motions/clip_rahu_click_body.motion3.json"
+        }
+      ],
+      "clip_rahu_idle": [
+        {
+          "File": "motions/clip_rahu_idle.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthForm",
+        "ParamMouthOpenY0"
+      ]
+    }
+  ]
+}
